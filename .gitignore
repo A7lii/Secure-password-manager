@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Sensitive files
+passwords.json
+settings.json
+.env
+.vscode/
+
+
